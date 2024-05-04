@@ -10,3 +10,26 @@
     width: 16px;
     height: 16px;
 }
+
+.circle {
+    z-index: -1;
+    fill-opacity: 0;
+    border: 1px solid #0044ff;    
+    border-radius: 100%;
+    position: absolute;
+}
+
+#dot1 {
+    top: 50px;
+    left: 50px;
+}
+
+#dot2 {
+    top: 50px;
+    left: 150px;
+}
+
+#dot3 {
+    top: 150px;
+    left: 50px;
+}
