@@ -1,0 +1,9 @@
+Step 1: 
+Create 3 dots that form 3 points on a circle.
+Then draw the circle that is formed by said 3 dots.
+Create 2 "edge dots" and 1 "mid dot"
+Only render the parts of the circle between the edges. 
+Add more Arcs
+Connect Arcs so the derivative's continuity is preserved
+Add straight edge
+Create a track
